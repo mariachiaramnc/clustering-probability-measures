@@ -1,5 +1,5 @@
 # Clustering probability measures in the Wasserstein space
-Final thesis for bachelor's degree in mathematical engineering (Politecnico di Milano, A. Y. 2023/24). 
+Final thesis for bachelor's degree in mathematical engineering (Politecnico di Milano, A. Y. 2023/24) and slides (in Italian). 
 
 ## Abstract
 In this thesis we tackle the problem of clustering probability measures in the

@@ -1,5 +1,6 @@
 # Clustering probability measures in the Wasserstein space
 Final thesis for bachelor's degree in mathematical engineering (Politecnico di Milano, A. Y. 2023/24), supervised by prof. M. Beraha. 
+
 Authors: [Pietro Masini](https://github.com/pietromas), [Maria Chiara Menicucci](https://github.com/mariachiaramnc).
 
 ## Abstract

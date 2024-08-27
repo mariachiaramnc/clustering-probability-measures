@@ -3,6 +3,8 @@ Final thesis for bachelor's degree in mathematical engineering (Politecnico di M
 
 Authors: [Pietro Masini](https://github.com/pietromas), [Maria Chiara Menicucci](https://github.com/mariachiaramnc).
 
+Our main reference is ["An invitation to statistics in Wasserstein space"](https://link.springer.com/book/10.1007/978-3-030-38438-8) by V. M. Panaretos and Y. Zemel.
+
 ## Abstract
 In this thesis we tackle the problem of clustering probability measures in the
 Wasserstein space. After presenting the necessary background in optimal
